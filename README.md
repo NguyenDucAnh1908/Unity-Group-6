@@ -11,8 +11,7 @@ Welcome to Fruits Adventure, an exhilarating 2D game inspired by the classic Mar
 4. [Getting Started](#getting-started)
 5. [Installation](#installation)
 6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [References](#references)
+7. [References](#references)
 
 ## Introduction
 
