@@ -1,5 +1,6 @@
 # Unity 2D Game - Fruits Adventure
-![Pixel Adventure Screenshot](https://img.itch.zone/aW1nLzI1Mzc4MzcuZ2lm/original/OArrbk.gif)
+![Pixel Adventure Screenshot](https://img.itch.zone/aW1nLzI1Mzc4MzcuZ2lm/original/OArrbk.gif)![Pixel Adventure Screenshot 2](https://img.itch.zone/aW1hZ2UvNDkwNzk4LzI1Mzk2NDYuZ2lm/347x500/NnUkNS.gif)
+
 Welcome to Fruits Adventure, an exhilarating 2D game inspired by the classic Mario series. Dive into a whimsical world where your character collects various items, dodges obstacles, and embarks on an exciting journey through six unique levels. Whether you're a developer looking to contribute or a gamer eager to explore this captivating adventure, we're delighted to have you on board!
 
 ### Table of Contents
