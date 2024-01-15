@@ -54,12 +54,6 @@ Once the project is set up, launch the game from Unity and start your Fruits Adv
 
 Adjust game settings, such as sound and display preferences, to suit your preferences. Explore the in-game menu to find these options.
 
-## Contributing
-
-We welcome contributions from the community to make Fruits Adventure even more exciting and engaging. To contribute, follow these guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md). We appreciate your efforts in making this game a collaborative success.
-
-## References
-
 ## References
 
 The visual assets for Fruits Adventure are sourced from [Pixel Adventure Pack](https://pixelfrog-assets.itch.io/pixel-adventure-1). We express our gratitude to the creators for providing these fantastic assets.
