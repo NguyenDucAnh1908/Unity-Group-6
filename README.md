@@ -23,7 +23,6 @@ Fruits Adventure is a 2D platformer game developed in Unity. Players guide their
 - **Six Unique Levels:** Navigate through six distinct levels, each presenting its own challenges and surprises.
 - **Item Collection:** Gather various items strewn across the levels to enhance your gaming experience.
 - **Obstacle Avoidance:** Test your reflexes by dodging obstacles strategically placed throughout the game.
-- **Multiplayer Support:** Invite up to six players to join the adventure, each experiencing the game individually.
 
 ## Gameplay
 
