@@ -10,6 +10,10 @@ TagManager:
   - Bullet
   - Co
   - Cup
+  - Cherry
+  - Wall
+  - Trap
+  - Terrain
   layers:
   - Default
   - TransparentFX
@@ -44,6 +48,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3498545277
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
@@ -61,4 +68,7 @@ TagManager:
     locked: 0
   - name: Ui
     uniqueID: 95087725
+    locked: 0
+  - name: Terrain
+    uniqueID: 3030776851
     locked: 0

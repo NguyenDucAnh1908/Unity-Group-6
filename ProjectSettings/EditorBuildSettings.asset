@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Win.unity
     guid: a1607a91c479c7a46845d3bb67a001df
+  - enabled: 1
+    path: Assets/Chanh/Scenes/Chanh_Lv1.unity
+    guid: d84df419fa8614044a3a8346ed2d9748
+  - enabled: 1
+    path: Assets/Chanh/Scenes/Chanh_Lv2.unity
+    guid: dcf9318af13d5d24c8dba35b6e64acca
   m_configObjects: {}
