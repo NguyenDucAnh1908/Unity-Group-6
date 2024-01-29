@@ -10,6 +10,7 @@ TagManager:
   - Bullet
   - Co
   - Cup
+  - Map
   layers:
   - Default
   - TransparentFX
