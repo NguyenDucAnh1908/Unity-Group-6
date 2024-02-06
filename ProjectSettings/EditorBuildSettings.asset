@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Game.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Pixel Adventure 1/Scenes/Level 1 _ Binh.unity
+    guid: 28cf1a010523a294b849c9727af2b514
   - enabled: 1
-    path: Assets/Scenes/Win.unity
-    guid: a1607a91c479c7a46845d3bb67a001df
+    path: Assets/Pixel Adventure 1/Scenes/Level 2 _ Binh.unity
+    guid: d8ac49d9ab223a7499969f150619cbb8
   m_configObjects: {}
