@@ -39,6 +39,8 @@ Before you start your Fruits Adventure, ensure you have Unity installed on your 
    git clone https://github.com/NguyenDucAnh1908/Unity-Group-6.git
 ...
 
+2. Use Unity version 2021.3.35f1
+
 ## Usage
 
 Once the project is set up, launch the game from Unity and start your Fruits Adventure! The controls are designed to be intuitive, allowing players to navigate through the levels, collect items, and avoid obstacles seamlessly. Feel free to explore various settings to enhance your gaming experience.
