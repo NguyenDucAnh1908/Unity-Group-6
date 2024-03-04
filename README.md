@@ -47,8 +47,11 @@ Once the project is set up, launch the game from Unity and start your Fruits Adv
 
 ### Controls
 
-- **Arrow Keys:** Move your character in the corresponding direction.
+- **← →/A D** Move your character in the corresponding direction.
 - **Spacebar:** Jump to avoid obstacles or reach higher platforms.
+- **Hold Spacebar:** Jump higher.
+- **E**: Interact.
+- **↓**: Falling.
 
 ### Settings
 
